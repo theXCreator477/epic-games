@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-=======
-@font-face {
-    font-family: 'bold';
-    src: url('./fonts/InterTight-SemiBold.ttf');
-}
-
-@font-face {
-    font-family: 'regular';
-    src: url('./fonts/InterTight-Regular.ttf');
-}
-
-
->>>>>>> 4c09ece1185a82d690bc0f2d3fdfe3a17ca02506
 body {
     background-color: #101014;
     width: 100vw;
