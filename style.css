@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'bold';
-    src: url('./public/fonts/InterTight-SemiBold.ttf');
+    src: url('./fonts/InterTight-SemiBold.ttf');
 }
 
 @font-face {
     font-family: 'regular';
-    src: url('./public/fonts/InterTight-Regular.ttf');
+    src: url('./fonts/InterTight-Regular.ttf');
 }
 
 
